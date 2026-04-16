@@ -1,2 +1,5 @@
 sentence-transformers
 Pillow
+face-recognition
+opencv-python
+numpy
